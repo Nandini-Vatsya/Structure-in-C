@@ -16,3 +16,8 @@ Example:- a student record containing data elements such as name,roll no., marks
 <br><ins>Syntax</ins></br>
 <br>structure_variable1.member1=value;</br>
 <br>structure_variable2.member2=value;</br>
+<br></br>
+<br><b><ins>To know more about structures, refer to the following website:-</b></ins></br>
+<br></br>
+![image](https://user-images.githubusercontent.com/125802204/221757473-4bccf591-f52f-4bb4-81b5-f064c40da26a.png)
+
