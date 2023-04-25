@@ -21,4 +21,10 @@ Example:- a student record containing data elements such as name,roll no., marks
 https://www.w3schools.com/c/c_structs.php
 <br></br>
 ![image](https://user-images.githubusercontent.com/125802204/221757473-4bccf591-f52f-4bb4-81b5-f064c40da26a.png)
+<br>
+<br>
+<b><ins> Output</b></ins>
+<br>
+<br>
+<img width="944" alt="Structure" src="https://user-images.githubusercontent.com/125802204/234178208-b3919015-6a1f-416e-9899-2c39923c5baf.png">
 
